@@ -1,0 +1,175 @@
+{
+  "achievements": [
+    {
+      "id": "exploracion_continentes",
+      "name": "Ciudadano del mundo",
+      "desc": "Terminas una partida en cada una de las cinco regiones.",
+      "category": "Exploración",
+      "idea": "Globo con líneas de ruta y pines de colores.",
+      "art": "./img/logros/exploracion_continentes.svg",
+      "tier": "plata"
+    },
+    {
+      "id": "progreso_primer_paso",
+      "name": "Primer paso",
+      "desc": "Juegas tu primera partida.",
+      "category": "Progreso",
+      "idea": "Huella brillante sobre un mapa del mundo estilizado.",
+      "art": "./img/logros/progreso_primer_paso.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_africa",
+      "name": "Primera bandera africana",
+      "desc": "Aciertas tu primera bandera en África.",
+      "category": "Progreso",
+      "idea": "Sabana, sol y bandera.",
+      "art": "./img/logros/primer_bandera_africa.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_america",
+      "name": "Primera bandera americana",
+      "desc": "Aciertas tu primera bandera en América.",
+      "category": "Progreso",
+      "idea": "Brújula sobre dos continentes.",
+      "art": "./img/logros/primer_bandera_america.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_asia",
+      "name": "Primera bandera asiática",
+      "desc": "Aciertas tu primera bandera en Asia.",
+      "category": "Progreso",
+      "idea": "Templo y banderín rojo.",
+      "art": "./img/logros/primer_bandera_asia.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_europa",
+      "name": "Primera bandera europea",
+      "desc": "Aciertas tu primera bandera en Europa.",
+      "category": "Progreso",
+      "idea": "Bandera + estrellas europeas.",
+      "art": "./img/logros/primer_bandera_europa.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_mundo",
+      "name": "Primera bandera mundial",
+      "desc": "Aciertas tu primera bandera en cualquier región.",
+      "category": "Progreso",
+      "idea": "Bandera ondeando sobre globo.",
+      "art": "./img/logros/primer_bandera_mundo.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_bandera_oceania",
+      "name": "Primera bandera oceánica",
+      "desc": "Aciertas tu primera bandera en Oceanía.",
+      "category": "Progreso",
+      "idea": "Isla con olas y bandera.",
+      "art": "./img/logros/primer_bandera_oceania.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_africa",
+      "name": "Primera capital africana",
+      "desc": "Aciertas tu primera capital en África.",
+      "category": "Progreso",
+      "idea": "Ciudades en la sabana.",
+      "art": "./img/logros/primer_capital_africa.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_america",
+      "name": "Primera capital americana",
+      "desc": "Aciertas tu primera capital en América.",
+      "category": "Progreso",
+      "idea": "Skyline sobre brújula.",
+      "art": "./img/logros/primer_capital_america.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_asia",
+      "name": "Primera capital asiática",
+      "desc": "Aciertas tu primera capital en Asia.",
+      "category": "Progreso",
+      "idea": "Pagoda y amanecer.",
+      "art": "./img/logros/primer_capital_asia.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_europa",
+      "name": "Primera capital europea",
+      "desc": "Aciertas tu primera capital en Europa.",
+      "category": "Progreso",
+      "idea": "Columna clásica y estrellas.",
+      "art": "./img/logros/primer_capital_europa.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_mundo",
+      "name": "Primera capital mundial",
+      "desc": "Aciertas tu primera capital en cualquier región.",
+      "category": "Progreso",
+      "idea": "Cúpula/edificio sobre globo.",
+      "art": "./img/logros/primer_capital_mundo.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "primer_capital_oceania",
+      "name": "Primera capital oceánica",
+      "desc": "Aciertas tu primera capital en Oceanía.",
+      "category": "Progreso",
+      "idea": "Edificio cívico en isla.",
+      "art": "./img/logros/primer_capital_oceania.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "progreso_veterano_50",
+      "name": "Veterano mundial",
+      "desc": "Juegas 50 partidas en total.",
+      "category": "Progreso",
+      "idea": "Mapa con rutas luminosas y chapas de países.",
+      "art": "./img/logros/progreso_veterano_50.svg",
+      "tier": "plata"
+    },
+    {
+      "id": "rachas_25",
+      "name": "Fuego eterno",
+      "desc": "Alcanzas 25 aciertos consecutivos entre partidas.",
+      "category": "Rachas",
+      "idea": "Anillo de fuego rodeando el número 25 con brillo cálido.",
+      "art": "./img/logros/rachas_25.svg",
+      "tier": "épico"
+    },
+    {
+      "id": "rachas_10",
+      "name": "Racha x10",
+      "desc": "Logras 10 aciertos consecutivos.",
+      "category": "Rachas",
+      "idea": "Corona dorada sobre número 10 en llamas suaves.",
+      "art": "./img/logros/rachas_10.svg",
+      "tier": "oro"
+    },
+    {
+      "id": "rachas_3",
+      "name": "Racha x3",
+      "desc": "Consigues 3 aciertos consecutivos.",
+      "category": "Rachas",
+      "idea": "Tres chispas formando un 3 con efecto glow.",
+      "art": "./img/logros/rachas_3.svg",
+      "tier": "bronce"
+    },
+    {
+      "id": "reto_primero",
+      "name": "Reto aceptado",
+      "desc": "Completas tu primer reto del día.",
+      "category": "Reto del día",
+      "idea": "Calendario con una estrella brillante marcada.",
+      "art": "./img/logros/reto_primero.svg",
+      "tier": "bronce"
+    }
+  ]
+}
